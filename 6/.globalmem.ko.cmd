@@ -1,0 +1,1 @@
+cmd_/home/shijie/work/test/linux_device_driver/6/globalmem.ko := arm-buildroot-linux-uclibcgnueabihf-ld -EL -r  -T /home/shijie/work/dc200/linux-3.15/scripts/module-common.lds --build-id  -o /home/shijie/work/test/linux_device_driver/6/globalmem.ko /home/shijie/work/test/linux_device_driver/6/globalmem.o /home/shijie/work/test/linux_device_driver/6/globalmem.mod.o
